@@ -15,9 +15,9 @@ When learning Artificial Intelligence, Natural Language Processing, and Data Min
 
 Education
 ======
-* Ph.D. (Computer Science), Baylor University, 2024
-* M.S. (Computer Science), Central China Normal University, 2014
-* B.S. (Computer Science), Shijiazhuang Tiedao University, 2011
+* Ph.D. (Computer Science), Baylor University (2024.09 - Present)
+* M.S. (Computer Science), Central China Normal University (2011.09 - 2014.06)
+* B.S. (Computer Science), Shijiazhuang Tiedao University（2007.09 - 2011.06)
 
 Awards & Honors 
 ======
