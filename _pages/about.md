@@ -22,4 +22,4 @@ Education
 Awards & Honors 
 ======
 * Outstanding Master Gradates Award in Hubei Province, Top 5% among all works in Hubei Province, 2014. 
-* Best Master Thesis Award in Hubei Province China, Top 5% among all works in Hubei Province, 2011.
+* Best Master Thesis Award in Hubei Province China, Top 5% among all works in Hubei Province, 2014.
