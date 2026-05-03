@@ -5,32 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>You can also find my articles on <a href="https://scholar.google.com/citations?user=JoOv5hsAAAAJ&hl=en">my Google Scholar profile</a>.</p>
 
-{% include base_path %}
+<h2>Journal Papers</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+  <b>[TMLR'25]</b> Multi-modal foundation models for computational pathology: a survey.<br>
+  Dong Li, Guihong Wan, Xintao Wu, Xinyu Wu, <b>Xiaohui Chen</b>, Yi He, Zhong Chen, Peter K Sorger, Chen Zhao.<br>
+  <i>Transactions on Machine Learning Research, 2025</i>
+</p>
 
+<h2>Conference Papers</h2>
 
+<p>
+  <b>[BIBM'14]</b> A novel approach to breast cancer-related disease genes discovered through variation of density modularity.<br>
+  Xianjun Shen, Yang Yi, Yan Wang, <b>Xiaohui Chen</b>, Jincai Yang, Tingting He.<br>
+  <i>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2014</i>
+</p>
 
+<p>
+  <b>[BIBM'13]</b> Identification of essential proteins based on network capital assessment and invalidating protein node.<br>
+  Xianjun Shen, Rui Xu, <b>Xiaohui Chen</b>, Jincai Yang, Tingting He.<br>
+  <i>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013</i>
+</p>
+
+<p>
+  <b>[BIBM'13]</b> Protein functional module detection based on closely associated degree.<br>
+  Xianjun Shen, <b>Xiaohui Chen</b>, Rui Xu, Tingting He, Jincai Yang, Xiaohua Hu.<br>
+  <i>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2013</i>
+</p>
+
+<h2>Preprints</h2>
+
+<p>
+  Explainable Image-Centric Forgery Detection: A Survey.<br>
+  Xinyu Wu, <b>Xiaohui Chen</b>, Xintao Wu, Dong Li, Zhong Chen, Yi He, Chen Zhao.<br>
+  <i>arXiv preprint, 2025</i>
+</p>
