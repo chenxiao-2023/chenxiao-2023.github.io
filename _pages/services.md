@@ -15,6 +15,10 @@ author_profile: true
   * [Frontiers in Physiology (2026)](https://www.frontiersin.org/journals/physiology)
   * [The 5th Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI @ KDD'26)](https://sites.google.com/view/eaikdd26/home)
   * [The 5th Workshop on Uncertainty Reasoning and Quantification in Decision Making (UDM @ KDD'26)](https://sites.google.com/view/udmkdd26/home)
+  * The International Workshop on Adaptable, Reliable, and Responsible Learning for Healthcare (BIBM ARRL'26)
+  * IEEE BIBM 2026 Doctoral Forum (BIBM'26)
+  * The 20th ACM International Conference on Web Search and Data Mining (WSDM'27)
+  * The 18th Asian Conference on Machine Learning (ACML'26)
 
 * 2025:
   * [The 4th Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI @ KDD'25)](https://meviuslab.github.io/EAI2025/)

@@ -11,6 +11,9 @@ I am a PhD student in the Department of Computer Science at Baylor University, u
 
 News <span style="color:red; font-size:0.7em; font-weight:bold;">[Update!]</span>
 ======
+* [09/2026] I will serve as a reviewer for BIBM'26, BIBM ARRL'26, and BigData'26.
+* [08/2026] I will serve as a reviewer for WSDM'27.
+* [07/2026] I will serve as a reviewer for ACML'26.
 * [04/2026] I will serve as a reviewer for EAI @ KDD'26 and UDM @ KDD'26.
 * [04/2026] I will serve as a reviewer for Frontiers in Physiology.
 * [03/2026] I will serve as a reviewer for Frontiers in Big Data.
